@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/untitled1.dir/main.o CMakeFiles/untitled1.dir/Student.o CMakeFiles/untitled1.dir/Class.o CMakeFiles/untitled1.dir/Data.o CMakeFiles/untitled1.dir/Tasks.o CMakeFiles/untitled1.dir/Menu.o CMakeFiles/untitled1.dir/Request.o  -o untitled1 
