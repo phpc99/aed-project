@@ -11,6 +11,12 @@
 
 # Screenshots
 
+### Login as a student
+![login](https://github.com/phpc99/aed-project/blob/main/login.png)
+
+### Show student schedule
+![next](https://github.com/phpc99/aed-project/blob/main/next.png)
+
 # Authors 
 
 - Afonso São Jorge Simões Gonçalves Pereira
