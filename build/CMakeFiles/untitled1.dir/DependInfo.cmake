@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/Class.cpp" "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/build/CMakeFiles/untitled1.dir/Class.o"
-  "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/Data.cpp" "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/build/CMakeFiles/untitled1.dir/Data.o"
-  "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/Menu.cpp" "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/build/CMakeFiles/untitled1.dir/Menu.o"
-  "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/Request.cpp" "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/build/CMakeFiles/untitled1.dir/Request.o"
-  "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/Student.cpp" "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/build/CMakeFiles/untitled1.dir/Student.o"
-  "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/Tasks.cpp" "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/build/CMakeFiles/untitled1.dir/Tasks.o"
-  "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/main.cpp" "/mnt/c/Users/pedro/Downloads/aed-project-master/aed-project-master/build/CMakeFiles/untitled1.dir/main.o"
+  "/mnt/c/Users/pedro/Desktop/aed-project/Class.cpp" "/mnt/c/Users/pedro/Desktop/aed-project/build/CMakeFiles/untitled1.dir/Class.o"
+  "/mnt/c/Users/pedro/Desktop/aed-project/Data.cpp" "/mnt/c/Users/pedro/Desktop/aed-project/build/CMakeFiles/untitled1.dir/Data.o"
+  "/mnt/c/Users/pedro/Desktop/aed-project/Menu.cpp" "/mnt/c/Users/pedro/Desktop/aed-project/build/CMakeFiles/untitled1.dir/Menu.o"
+  "/mnt/c/Users/pedro/Desktop/aed-project/Request.cpp" "/mnt/c/Users/pedro/Desktop/aed-project/build/CMakeFiles/untitled1.dir/Request.o"
+  "/mnt/c/Users/pedro/Desktop/aed-project/Student.cpp" "/mnt/c/Users/pedro/Desktop/aed-project/build/CMakeFiles/untitled1.dir/Student.o"
+  "/mnt/c/Users/pedro/Desktop/aed-project/Tasks.cpp" "/mnt/c/Users/pedro/Desktop/aed-project/build/CMakeFiles/untitled1.dir/Tasks.o"
+  "/mnt/c/Users/pedro/Desktop/aed-project/main.cpp" "/mnt/c/Users/pedro/Desktop/aed-project/build/CMakeFiles/untitled1.dir/main.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
