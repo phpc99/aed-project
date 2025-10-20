@@ -17,6 +17,14 @@
 ### Show student schedule
 ![next](https://github.com/phpc99/aed-project/blob/main/next.png)
 
+# How to run the project
+
+1. Enter wsl
+2. Enter the build folder
+3. Run the command ```cmake ..```
+4. Run the command ```cmake --build .```
+5. Run the executable ```./untitled1```
+
 # Authors 
 
 - Afonso São Jorge Simões Gonçalves Pereira
